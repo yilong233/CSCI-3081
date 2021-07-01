@@ -1,0 +1,4 @@
+The date: 04/01/2021
+People: Maria Gwanganalie, Yilong Liu, Jiazheng Chen, Xiyuan Li
+Discussion: Priority1.2 is Maria's task. And we discussed our own task. We also discussed how to fix 
+the google test for iteration 1 and what the robot class should look like.

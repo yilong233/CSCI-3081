@@ -1,0 +1,5 @@
+The date: 04/13/2021
+People: Maria Gwanganalie, Yilong Liu, Jiazheng Chen, Xiyuan Li
+Discussion:  We discussed the tasks for the final deliverable of iteration 2. Jiazheng finished priority3. 
+Maria did priority4. Yilong finished the Doxygen document and UML. Xiyuan finished google tests,
+github issues and teamwork documents.
